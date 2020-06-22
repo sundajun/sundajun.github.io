@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-23T08:36:29.049Z</updated>
+  <updated>2020-06-22T14:19:37.439Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>title-2</title>
+    <link href="http://yoursite.com/2020/06/22/title-2/"/>
+    <id>http://yoursite.com/2020/06/22/title-2/</id>
+    <published>2020-06-22T14:18:34.000Z</published>
+    <updated>2020-06-22T14:19:37.439Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;2号机&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="测试2号" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%952%E5%8F%B7/"/>
+    
+  </entry>
   
   <entry>
     <title>article title</title>
